@@ -1,0 +1,14 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Thai Answers",
+ "description": "Evergreen, source-marked answers to the questions people actually ask about living in and visiting Thailand.",
+ "items": [
+  {
+   "id": "thai-massage-old-city-table",
+   "title": "Where can I get a proper therapeutic Thai massage in Chiang Mai's old city — on a table with a face cradle?",
+   "summary": "Every massage venue inside Chiang Mai's old-city moat (122 known from open map data), plus an honest account of what open data can and cannot verify: face-cradle tables, training, and therapeutic skill are curator-verified, one venue at a time.",
+   "content_text": "The question is really three filters — location, equipment (a table with a face cradle, not a floor mat), and targeted therapeutic skill. Open map data answers the first; the curation layer accumulates the rest.",
+   "date_published": "2026-07-14T00:00:00Z"
+  }
+ ]
+}
